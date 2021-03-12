@@ -11,5 +11,5 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
   containerPort: 8080
-  livenessProbe: /books
-  readinessProbe: /books
+#  livenessProbe: /books
+#  readinessProbe: /books
